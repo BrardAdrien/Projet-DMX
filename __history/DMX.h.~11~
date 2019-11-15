@@ -2,7 +2,18 @@
 
 #ifndef DMXH
 #define DMXH
-#include "./include/mysql.h"
+#include <mysql.h>
 #include <windows.h>
+
+class BddUser
+{
+	bool connection( char login , char password , int address );
+	void Disconnect();
+};
+
+class Materiel
+{
+
+};
 //---------------------------------------------------------------------------
 #endif
