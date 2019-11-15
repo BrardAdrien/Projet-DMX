@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/11/15 13:04:55.849,=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Project9PCH1.h</Transaction>
+    <Transaction>2019/11/15 13:04:55.853,=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\File4.cpp</Transaction>
+    <Transaction>2019/11/15 13:05:23.347,=C:\Users\Brard\Documents\GitHub\Projet-DMX\libmysql (1).dll</Transaction>
+    <Transaction>2019/11/15 13:05:46.686,=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2019/11/15 13:13:13.567,C:\Users\Brard\Documents\GitHub\Projet-DMX\DMX.cpp=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2019/11/15 13:13:13.567,C:\Users\Brard\Documents\GitHub\Projet-DMX\DMX.h=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Unit2.h</Transaction>
+    <Transaction>2019/11/15 13:21:23.637,C:\Users\Brard\Documents\GitHub\Projet-DMX\Project9PDMX.h=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Project9PCH1.h</Transaction>
+    <Transaction>2019/11/15 13:21:27.414,C:\Users\Brard\Documents\GitHub\Projet-DMX\ProjectDMXPCH1.h=C:\Users\Brard\Documents\GitHub\Projet-DMX\Project9PDMX.h</Transaction>
+    <Transaction>2019/11/15 13:21:27.428,C:\Users\Brard\Documents\GitHub\Projet-DMX\ProjectDMX.cbproj=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Project9.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
