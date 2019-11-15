@@ -9,8 +9,6 @@ class BddUser
 {
 	bool connection( char login , char password , int address );
 	void Disconnect();
-
-
 };
 //---------------------------------------------------------------------------
 #endif
