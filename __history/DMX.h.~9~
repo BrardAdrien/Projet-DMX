@@ -1,0 +1,19 @@
+//---------------------------------------------------------------------------
+
+#ifndef DMXH
+#define DMXH
+#include <mysql.h>
+#include <windows.h>
+
+class BddUser
+{
+	bool connection( char login , char password , int address );
+	void Disconnect();
+};
+
+class Materiel
+{
+
+};
+//---------------------------------------------------------------------------
+#endif
