@@ -10,7 +10,7 @@
     <Transaction>2019/11/15 13:21:23.000.637,C:\Users\Brard\Documents\GitHub\Projet-DMX\Project9PDMX.h=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Project9PCH1.h</Transaction>
     <Transaction>2019/11/15 13:21:27.000.428,C:\Users\Brard\Documents\GitHub\Projet-DMX\ProjectDMX.cbproj=C:\Users\Brard\Documents\Embarcadero\Studio\Projets\Project9.cbproj</Transaction>
     <Transaction>2019/11/15 13:21:27.000.414,C:\Users\Brard\Documents\GitHub\Projet-DMX\ProjectDMXPCH1.h=C:\Users\Brard\Documents\GitHub\Projet-DMX\Project9PDMX.h</Transaction>
-    <Transaction>2019/11/15 13:39:14.000.516,=C:\Users\Brard\Documents\GitHub\Projet-DMX\libmysql.lib</Transaction>
-    <Transaction>2019/11/15 13:40:35.000.784,=C:\Users\Brard\Documents\GitHub\Projet-DMX\include\mysql.h</Transaction>
+    <Transaction>2019/11/15 13:39:14.516,=C:\Users\Brard\Documents\GitHub\Projet-DMX\libmysql.lib</Transaction>
+    <Transaction>2019/11/15 13:40:35.784,=C:\Users\Brard\Documents\GitHub\Projet-DMX\include\mysql.h</Transaction>
   </Transactions>
 </BorlandProject>
